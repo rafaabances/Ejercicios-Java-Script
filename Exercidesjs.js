@@ -22,7 +22,8 @@ let numeros = [45, 2, 35, 12, 32, 45, 90, 12, 67, 87, 1, 46, 97, 49, 72, 17, 34,
 
 
 
-//6. Utilizando la array anterior, encontrar los números que se repiten, guardarlos en una array (si aun no existen en esta) y mostrarlos en consola
+//6. Utilizando la array anterior, encontrar los números que se repiten, guardarlos en una array (si aun no existen en esta) 
+//y mostrarlos en consola
 //for(), if(), push(), includes() || indexOf()
 
 
@@ -42,8 +43,8 @@ let numeros = [45, 2, 35, 12, 32, 45, 90, 12, 67, 87, 1, 46, 97, 49, 72, 17, 34,
 //for()
 
 
-//10. Haz una copia de la array del ejercicio 3, ordenala de forma ascendente, y coloca el siguiente número donde le corresponda.
-//Array.from(), sort(), splice(), for(), if()
+//10. Haz una copia de la array del ejercicio 3, ordenala de forma ascendente, y coloca el número 7 donde le corresponda.
+//Array.from(), sort(), splice(), for(), if() 
 
 let numeros = [45, 2, 35, 12, 32, 45, 90, 12, 67, 87, 1, 46, 97, 49, 72, 17, 34, 2, 94, 28, 51, 31, 29, 18, 62, 2, 4, 13, 4, 98, 15, 75, 12, 43];
 
